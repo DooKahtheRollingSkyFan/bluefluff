@@ -456,8 +456,8 @@ Furbys still speak some furbish, when writing transcribing spoken actions, pleas
 |8|1|0|3|"da no likey"|
 |8|1|0|4|"awkward!"|
 |8|1|0|5|fart "ooh, scuze you!"|
-|8|1|0|6|"whatchu talkin bout dee-doh?"|
-|8|1|0|7|"oo-nye talking to me?"|
+|8|1|0|6|"Whatchu talkin' bout dee-doh?"|
+|8|1|0|7|"Oo-nye talking to me?"|
 |8|2|0|0|sigh "if oo-nye say so"|
 |8|2|0|1|"too doo-loo dude, too doo-loo"|
 |8|2|0|2|yawn "me me way lah, kah noo lah"|
@@ -989,27 +989,27 @@ Furbys still speak some furbish, when writing transcribing spoken actions, pleas
 |30|1|0|9|"be honest, kah look good huh?"|
 |30|1|1|0|laugh ""no"|
 |30|1|1|1|"eh heh heh.. Umm"|
-|30|1|1|2|"oo-nye serious!?"|
-|30|1|1|3|"uh oh"|
-|30|1|1|4|"ee-tay, a thousand times ee-tay"|
+|30|1|1|2|"Oo-nye serious!?"|
+|30|1|1|3|"Uh oh"|
+|30|1|1|4|"Ee-tay, a thousand times ee-tay!"|
 |30|1|1|5|"uh, hold that thought fart"|
 |30|1|1|6|"heh heh, silly wabbit"|
-|30|1|1|7|"honestly, yes"|
+|30|1|1|7|"Honestly, yes"|
 |30|1|1|8|"mmm, maybe"|
 |30|1|1|9|"nope nah boo nuh uh mm mm no"|
-|30|1|1|10|"yaaaaas"|
-|30|1|1|11|"what?"|
+|30|1|1|10|"Yaaaaas!"|
+|30|1|1|11|"What?"|
 |30|1|1|12|"huh? No, wait, yes, wait, no?"|
 |30|1|1|13|"dude, dee-doh, yes, very yes"|
 |30|1|1|14|"wait, oo-nye kidding kah"|
 |30|1|1|15|sniff "who no what?"|
 |30|1|1|16|"huh, this just got weird"|
 |30|1|1|17|"uuuuuuuuggh"|
-|30|1|1|18|"whatchu talking bout dee-doh"|
-|30|1|1|19|"oo-nye talking to me?"|
+|30|1|1|18|"Whatchu talkin' bout dee-doh"|
+|30|1|1|19|"Oo-nye talking to me?"|
 |30|1|1|20|"indeed!"|
 |30|1|1|21|"mmm, mmhmm, yep yep yep yep"|
-|30|1|1|22|"oh yeah no totally, mmhm"|
+|30|1|1|22|"Oh yeah no totally, mmhm"|
 |30|1|1|23|"mmhm, totally"|
 |30|2|0 - 3|0 - 3|duet singing|
 |30|3|0|0|PUT TO SLEEP|
